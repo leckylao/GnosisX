@@ -1,0 +1,9 @@
+[submodule "gnosis.js"]
+	path = gnosis.js
+	url = git@github.com:gnosis/gnosis.js.git
+[submodule "gnosisdb"]
+	path = gnosisdb
+	url = git@github.com:gnosis/gnosisdb.git
+[submodule "gnosis-contracts"]
+	path = gnosis-contracts
+	url = git@github.com:gnosis/gnosis-contracts.git
