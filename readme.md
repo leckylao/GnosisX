@@ -19,7 +19,7 @@ cd gnosis.js
 npm install
 ```
 
-### Install GenosisDB & Run it in docker
+### Install GnosisDB & Run it in docker
 ```
 cd gnosisdb
 add '192.168.99.100' into ALLOWED_HOSTS array in file config/settings/local.py
